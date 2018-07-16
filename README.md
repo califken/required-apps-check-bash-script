@@ -1,6 +1,8 @@
 # required-apps-check-bash-script
 A script to check that a list of required apps are installed via the command line.
 
+[outputsample]: https://github.com/califken/required-apps-check-bash-script/blob/master/required-apps-check-bash-script.sh-output.png "Output Sample"
+
 # Just edit the list and run.
 
 ### To Run
